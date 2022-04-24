@@ -1,6 +1,6 @@
 ### Intelligent Data Annotation and Fault Diagnosis Under Noisy Labels (IDAFD-UNL)
 
-- @Author        :   GuokLiu
+- @Author        :   Guokai Liu
 - @Contact       :   liuguokai@hust.edu.cn
 - @Institution   :   Huazhong Univ. of Sci. and Tech.
 
