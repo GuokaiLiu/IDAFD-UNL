@@ -1,6 +1,6 @@
 ### Intelligent Data Annotation and Fault Diagnosis Under Noisy Labels (IDAFD-UNL)
 
->**Motivation:** Intelligent data annotation and fault diagnosis (IDAFD) is of great interest in both academia and industry. In the past, decades, IDAFD has evolved from expertise-based to data-driven fault diagnosis (see Fig .1) and achieved great success. However, this success is predicated on the correctly annotated datasets. Labels in large industrial datasets can be noisy and thus degrade the performance of fault diagnosis models. In recent years, deep learning-based label-denoising (DLLD) has gained attention in the field of fault diagnosis. Nevertheless, the related research is still limited in the prognostics and health management (PHM) community. To promote the development of IDAFD-UNL, we created this repository. 
+>**Motivation:** Intelligent data annotation and fault diagnosis (IDAFD) is of great interest in both academia and industry. In the past decades, IDAFD has evolved from expertise-based to data-driven fault diagnosis (see Fig .1) and achieved great success. However, this success is predicated on the correctly annotated datasets. Labels in large industrial datasets can be noisy and thus degrade the performance of fault diagnosis models. In recent years, deep learning-based label-denoising (DLLD) has gained attention in the field of fault diagnosis. Nevertheless, the related research is still limited in the prognostics and health management (PHM) community. To promote the development of IDAFD-UNL, we created this repository. 
 
 
 
