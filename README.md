@@ -31,7 +31,7 @@ We sincerely hope this repository can facilitate future studies on the IDAFD-UNL
 :star:: If this repository facilitates your current or future research and makes a positive contribution to your study. Please cite the reference as follows.
 
 ```
-@article{liu2022knowledge,
+@article{liu2022active,
   title={An Active Label-denoising Algorithm Based on Broad Learning for Annotation of Machine Health Status},
   author={Liu, Guokai and Shen, Weiming and Gao, Liang and Kusiak, Andrew},
   journal={Science China Technological Sciences},
