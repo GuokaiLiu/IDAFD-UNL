@@ -1,5 +1,15 @@
 ### Intelligent Data Annotation and Fault Diagnosis Under Noisy Labels (IDAFD-UNL)
 
+- @Author        :   GuokLiu
+- @Contact       :   liuguokai@hust.edu.cn
+- @Institution   :   Huazhong Univ. of Sci. and Tech.
+
+
+### Acknowledgement
+We appreciate the editors and reviewers who have provided insightful and constructive comments on this study. Thank you very much : )
+We sincerely hope this repository can facilitate future studies on the IDAFD-UNL problem.
+
+
 >**Motivation:** Intelligent data annotation and fault diagnosis (IDAFD) is of great interest in both academia and industry. In the past decades, IDAFD has evolved from expertise-based to data-driven fault diagnosis (see Fig .1) and achieved great success. However, this success is predicated on the correctly annotated datasets. Labels in large industrial datasets can be noisy and thus degrade the performance of fault diagnosis models. In recent years, deep learning-based label-denoising (DLLD) has gained attention in the field of fault diagnosis. Nevertheless, the related research is still limited in the prognostics and health management (PHM) community. To promote the development of IDAFD-UNL, we created this repository. 
 
 
@@ -8,7 +18,7 @@
 |:--:| 
 | *Fig 1. The development of intelligent fault diagnosis.* |
 
->**Background:** In practice, data-driven fault diagnosis require diverse data with reliable labels for training and evaluation. However, the acquirement of essential data is difficult due to limited working conditions and collection costs. Moreover, even if the essential data can be collected, perfect data annotation remains a challenge because of insufficient labeling expertise and  complicated labeling workload. Current data annotation has evolved from expert-based, to crowd-source-based and model-automation-based labeling. However, the available data labeling strategies can hardly guarantee perfect annotation without corrupted labels. Hence, the label noise problem, i.e., data with corrupted labels, is introduced and brings new challenges to data-driven fault diagnosis.
+>**Background:** In practice, data-driven fault diagnosis require diverse data with reliable labels for training and evaluation. However, the acquirement of essential data is difficult due to limited working conditions and collection costs. Moreover, even if the essential data can be collected, perfect data annotation remains a challenge because of insufficient labeling expertise and  complicated labeling workload. Current data annotation has evolved from expert-based, to crowd-source-based and model-automation-based labeling (See Fig.2). However, the available data labeling strategies can hardly guarantee perfect annotation without corrupted labels. Hence, the label noise problem, i.e., data with corrupted labels, is introduced and brings new challenges to data-driven fault diagnosis.
 
 
 
@@ -18,7 +28,7 @@
 
 >**Resources:** We have collected excellent resources in this repository, such as datasets, papers, and available codes. Any issue or pull request is welcomed. 
 
-:star:: If this repository facilitates your current or future research and make positive contribution to your study. Please cite the reference as follows.
+:star:: If this repository facilitates your current or future research and makes a positive contribution to your study. Please cite the reference as follows.
 
 ```
 @article{liu2022knowledge,
