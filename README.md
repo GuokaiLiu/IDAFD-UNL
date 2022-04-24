@@ -138,7 +138,7 @@ Yn2 = flip_label(Ys, 'Asym', 0.35, dt=args.dataset)
 |:--:| 
 | *Fig 5. High-level research overview of robust deep learning for noisy labels.* |
 
-```
+
 
 :star:: This section was copied from https://github.com/songhwanjun/Awesome-Noisy-Labels. Please refer to it for more details.
 
