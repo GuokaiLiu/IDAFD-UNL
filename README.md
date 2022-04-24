@@ -3,30 +3,18 @@
 >**Motivation:** Intelligent fault diagnosis (IFD) is of great interest in both academia and industry. In the past, decades, IFD has evolved from expertise-based to data-driven fault diagnosis (see Fig .1) and achieved great success. However, this success is predicated on the correctly annotated datasets. Labels in large industrial datasets can be noisy and thus degrade the performance of fault diagnosis models. In recent years, deep learning-based label-denoising (DLLD) has gained attention in the field of fault diagnosis. Nevertheless, the related research is still limited in the prognostics and health management (PHM) community. To promote the development of IDAFD-UNL, we created this repository. 
 
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Figures/Review.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Fig 1. The development of intelligent fault diagnosis.</div>
-</center>
 
+| ![space-1.jpg](Figures/Review.png) | 
+|:--:| 
+| *Fig 1. The development of intelligent fault diagnosis.* |
 
 >**Background:** In practice, data-driven fault diagnosis require diverse data with reliable labels for training and evaluation. However, the acquirement of essential data is difficult due to limited working conditions and collection costs. Moreover, even if the essential data can be collected, perfect data annotation remains a challenge because of insufficient labeling expertise and  complicated labeling workload. Current data annotation has evolved from expert-based, to crowd-source-based and model-automation-based labeling. However, the available data labeling strategies can hardly guarantee perfect annotation without corrupted labels. Hence, the label noise problem, i.e., data with corrupted labels, is introduced and brings new challenges to data-driven fault diagnosis.
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Figures/ALDBL.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Fig 2. Label noise from annotators in fault diagnosis.</div>
-</center>
+
+
+| ![space-1.jpg](Figures/ALDBL.png) | 
+|:--:| 
+| *Fig 2. Label noise from annotators in fault diagnosis.* |
 
 >**Resources:** We have collected excellent resources in this repository, such as datasets, papers, and available codes. Any issue or pull request is welcomed. 
 
@@ -45,16 +33,10 @@
 ---
 ### Label noise simulation
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Figures/Simulation.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Fig 3. Simulated symmetric and asymmetric label noise.</div>
-</center>
+
+| ![space-1.jpg](Figures/Simulation.png) | 
+|:--:| 
+| *Fig 3. Simulated symmetric and asymmetric label noise.* |
 
 
 - Function
@@ -106,18 +88,12 @@ Yn2 = flip_label(Ys, 'Asym', 0.35, dt=args.dataset)
 
 ### PHM Datasets
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Figures/Datasets.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Fig 4. Open‐sourced datasets for fault diagnosis and prognosis.</div>
-</center>
+| ![space-1.jpg](Figures/Datasets.png) | 
+|:--:| 
+| *Fig 4. Open‐sourced datasets for fault diagnosis and prognosis.* |
 
 ```
+
 @article{liu2022knowledge,
   title={Knowledge transfer in fault diagnosis of rotary machines},
   author={Liu, Guokai and Shen, Weiming and Gao, Liang and Kusiak, Andrew},
@@ -157,16 +133,12 @@ Yn2 = flip_label(Ys, 'Asym', 0.35, dt=args.dataset)
 ---
 
 ### A Taxonomy
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Figures/Taxonomy.png">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Fig 5. High-level research overview of robust deep learning for noisy labels.</div>
-</center>
+
+| ![space-1.jpg](Figures/Taxonomy.png) | 
+|:--:| 
+| *Fig 5. High-level research overview of robust deep learning for noisy labels.* |
+
+```
 
 :star:: This section was copied from https://github.com/songhwanjun/Awesome-Noisy-Labels. Please refer to it for more details.
 
