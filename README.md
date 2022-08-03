@@ -18,7 +18,7 @@
 
 
 
-| ![space-1.jpg](Figures/ALDBL.png) | 
+| ![space-1.jpg](Figures/Problem.png) | 
 |:--:| 
 | *Fig 2. Label noise from annotators in fault diagnosis.* |
 
