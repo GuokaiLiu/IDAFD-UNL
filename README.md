@@ -10,7 +10,7 @@
 
 
 
-| ![space-1.jpg](Figures/Problem.png) | 
+| ![space-1.jpg](Figures/Review.png) | 
 |:--:| 
 | *Fig 1. The development of intelligent fault diagnosis.* |
 
