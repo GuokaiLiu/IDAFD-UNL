@@ -5,10 +5,6 @@
 - @Institution   :   Huazhong Univ. of Sci. and Tech.
 
 
-### Acknowledgement
-We appreciate the editors and reviewers who have provided insightful and constructive comments on this study. Thank you very much : )
-We hope this repository can facilitate future studies on the IDAFD-UNL problem.
-
 
 >**Motivation:** Intelligent data annotation and fault diagnosis (IDAFD) is of great interest in both academia and industry. In the past decades, intelligent fault diagnosis (IFD) has evolved from expertise-based to data-driven paradigms (see Fig .1) and achieved great success. However, this success is predicated on the correctly annotated datasets. Labels in large industrial datasets can be noisy and thus degrade the performance of fault diagnosis models. In recent years, deep learning-based label-denoising (DLLD) has gained attention in the field of fault diagnosis. Nevertheless, the related research is still limited in the prognostics and health management (PHM) community. To promote the development of IDAFD-UNL, we created this repository. 
 
@@ -35,7 +31,7 @@ We hope this repository can facilitate future studies on the IDAFD-UNL problem.
   title={An Active Label-denoising Algorithm Based on Broad Learning for Annotation of Machine Health Status},
   author={Liu, Guokai and Shen, Weiming and Gao, Liang and Kusiak, Andrew},
   journal={Science China Technological Sciences},
-  notes={This manuscirpt is currently under review}, 
+  notes={https://doi.org/10.1007/s11431-022-2091-9}, 
   year={2022}
 }
 ```
@@ -345,4 +341,6 @@ Robust Learning for Noisy Labels
 
 
 
-
+### Acknowledgement
+We appreciate the editors and reviewers who have provided insightful and constructive comments on this study. Thank you very much : )
+We hope this repository can facilitate future studies on the IDAFD-UNL problem.
